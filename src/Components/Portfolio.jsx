@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "SugarMommy Desserts",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My first personal website that I built for our Finals in Introduction to Computing course during 1st term of A.Y. 2024-2025 (1st year) at NU Laguna.",
+    url: "https://beekhyyyyyy.github.io/sugarmommydesserts/",
   },
 ];
 

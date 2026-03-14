@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Khyron Rafael",
-  title: "Junior Programmer/Developer",
-  email: "rafaelkhb@students.nu-laguna.edu.ph || khyronrafael2005@gmail.com",
+  title: "Junior Developer",
+  email: "rafaelkhb@students.nu-laguna.edu.ph",
   gitHub: "BeeKhyyyyyy",
   instagram: "khy_sottoo",
-  linkedIn: "Khyron Rafael",
+  linkedIn: "https://www.linkedin.com/in/khyron-rafael-183590276/",
   youTube: "Onigiri69",
 };
 
