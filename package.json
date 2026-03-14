@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://BeeKhyyyyyy.github.io/KhySite",
+  "homepage": "https://BeeKhyyyyyy.github.io/KhySite/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://BeeKhyyyyyy.github.io/KhySite'",
+    "build-gh": "parcel build --public-url 'https://BeeKhyyyyyy.github.io/KhySite/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
